@@ -1,0 +1,10 @@
+diff --git a/.gitignore b/.gitignore
+index 3a673d9c..0490c518 100644
+--- a/.gitignore
++++ b/.gitignore
+@@ -13,3 +13,5 @@ benchmarks/graphs
+ 
+ # ignore additional files using core.excludesFile
+ # https://git-scm.com/docs/gitignore
++
++.blackbox-version
